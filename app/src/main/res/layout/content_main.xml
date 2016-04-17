@@ -16,9 +16,11 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Team A"
+        android:text="NBA"
         android:gravity="center_horizontal"
         android:padding="4dp"/>
+
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
