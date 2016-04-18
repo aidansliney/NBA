@@ -31,7 +31,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="From Down Town"
+        android:text="From Down Town - Your Heating up"
         android:layout_margin="10dp"/>
     <Button
         android:layout_width="match_parent"
